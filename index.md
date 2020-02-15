@@ -6,7 +6,9 @@
 - 博客： *[[**CSDN博客1**](https://blog.csdn.net/qq_33614902 "kepcum")] &emsp; [[**CSDN博客2**](https://me.csdn.net/weixin_39585152 "很久不更新了")] &emsp; [[**leetcode中文**](https://leetcode-cn.com/u/kepcum/ "kepcum")] &emsp; [[**leetcode英文**](https://leetcode.com/kepcum/ "很久不更新了")]*  
 
 
+<img src="./src/image/touxiang/mingren1.jpg" width="500" height=200" align=center>
 
+<div align=center width=50% hight=%50>![头像](./src/image/touxiang/mingren1.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/kepcum/kepcum.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
