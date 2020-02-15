@@ -1,4 +1,5 @@
 ## 基本信息
+
 <p align="center">
 	<img src="./src/image/touxiang/mingren2.jpg" alt="Sample"  width="20%" height="">
 	<p align="center">
@@ -9,47 +10,19 @@
 - 昵称： *kepcum*  
 - 邮箱： *jiwen2019@foxmail.com*  
 - 博客： *[[**CSDN博客1**](https://blog.csdn.net/qq_33614902 "kepcum")]
-&emsp; [[**CSDN博客2**](https://me.csdn.net/weixin_39585152 "很久不更新了")]
+&emsp; [[**CSDN博客2**](https://me.csdn.net/weixin_39585152 "leetcode部分题解")]
 &emsp; [[**leetcode中文**](https://leetcode-cn.com/u/kepcum/ "kepcum")]
 &emsp; [[**leetcode英文**](https://leetcode.com/kepcum/ "很久不更新了")]*  
+- github：https://github.com/kepcum
 
 
 
+## github
+
+### 刷题
+- [**剑指offer题解**](https://github.com/kepcum/my_code/tree/master/%E5%89%91%E6%8C%87offer "66道编程题题解")  
+- [**面试常见编程题**](https://github.com/kepcum/my_code/tree/master/%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%E7%BC%96%E7%A8%8B%E9%A2%98)
+- [**leetcode**]()
 
 
 
-You can use the [editor on GitHub](https://github.com/kepcum/kepcum.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kepcum/kepcum.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
